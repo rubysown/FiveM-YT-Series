@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Bodyguard\output\__resource.lua
+C:\Users\Admin\source\repos\Bodyguard\output\Client.net.dll
+C:\Users\Admin\source\repos\Bodyguard\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Bodyguard\Client\obj\Debug\Client.net.dll
