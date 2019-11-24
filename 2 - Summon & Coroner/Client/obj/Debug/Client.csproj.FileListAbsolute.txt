@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Summon\output\__resource.lua
+C:\Users\Admin\source\repos\Summon\output\Client.net.dll
+C:\Users\Admin\source\repos\Summon\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Summon\Client\obj\Debug\Client.net.dll
