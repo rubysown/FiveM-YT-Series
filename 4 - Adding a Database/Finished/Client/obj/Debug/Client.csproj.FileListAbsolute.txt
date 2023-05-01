@@ -1,0 +1,5 @@
+C:\Users\Ruby\source\repos\PlayerMenu\Client\bin\Debug\Client.dll
+C:\Users\Ruby\source\repos\PlayerMenu\Client\bin\Debug\Client.pdb
+C:\Users\Ruby\source\repos\PlayerMenu\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Ruby\source\repos\PlayerMenu\output\PlayerMenu\PlayerMenu.Client.net.dll
+C:\Users\Ruby\source\repos\PlayerMenu\Client\obj\Debug\PlayerMenu.Client.net.dll

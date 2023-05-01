@@ -1,0 +1,13 @@
+C:\Users\Ruby\source\repos\PlayerMenu\Server\bin\Debug\Server.dll.config
+C:\Users\Ruby\source\repos\PlayerMenu\Server\bin\Debug\Server.dll
+C:\Users\Ruby\source\repos\PlayerMenu\Server\bin\Debug\Server.pdb
+C:\Users\Ruby\source\repos\PlayerMenu\Server\bin\Debug\Dapper.dll
+C:\Users\Ruby\source\repos\PlayerMenu\Server\bin\Debug\MySql.Data.dll
+C:\Users\Ruby\source\repos\PlayerMenu\Server\bin\Debug\Dapper.xml
+C:\Users\Ruby\source\repos\PlayerMenu\Server\bin\Debug\MySql.Data.xml
+C:\Users\Ruby\source\repos\PlayerMenu\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Ruby\source\repos\PlayerMenu\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Ruby\source\repos\PlayerMenu\output\PlayerMenu\PlayerMenu.Server.net.dll.config
+C:\Users\Ruby\source\repos\PlayerMenu\output\PlayerMenu\PlayerMenu.Server.net.dll
+C:\Users\Ruby\source\repos\PlayerMenu\Server\obj\Debug\PlayerMenu.Server.net.dll
+C:\Users\Ruby\source\repos\PlayerMenu\output\PlayerMenu\fxmanifest.lua
